@@ -1,0 +1,3 @@
+budget = {}
+def add(item):
+    
